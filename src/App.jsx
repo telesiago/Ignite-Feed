@@ -13,7 +13,7 @@ const posts = [
   {
     id: 1,
     author: {
-      avatarUrl: "https://githuba.com/telesiago.png",
+      avatarUrl: "https://github.com/telesiago.png",
       name: "Iago Teles",
       role: "Developer"
     },
@@ -27,7 +27,7 @@ const posts = [
   {
     id: 2,
     author: {
-      avatarUrl: "https://githuba.com/maykbrito.png",
+      avatarUrl: "https://github.com/maykbrito.png",
       name: "Mayk Brito",
       role: "Educator @Rocketseat"
     },
@@ -36,7 +36,7 @@ const posts = [
       {type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀'},
       {type: 'link', content: '👉 jane.design/doctorcare'},
     ],
-    publishedAt: new Date('2025-03-20 07:00:00'),
+    publishedAt: new Date('2025-03-17 07:00:00'),
   }
 ]
 function App() {
